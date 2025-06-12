@@ -2,9 +2,7 @@
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning Web-Development skill
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ?
-- 📫 you can reach me trough email or contact number
-- 😄 Email : uddin657321@gmail.com
+- 📫 How to reach me uddin657321@gmail.com
 - ⚡ contact me; 033166131788
 
 <!---
